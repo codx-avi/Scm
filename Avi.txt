@@ -1,1 +1,2 @@
 THis is SCM Class
+Class will end half&hour early
